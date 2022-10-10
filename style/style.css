@@ -1,0 +1,51 @@
+header {
+    width: 100%;
+    box-sizing: content-box;
+    margin: 0;
+    padding: 0;
+    background-image: url();
+    height: 300px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+header img {
+    width: 170px;
+    height: 60px;
+}
+
+main {
+    width: 100%;
+    background-image: url();
+    height: 500px;
+}
+
+footer {
+    width: 100%;
+    background-image: url();
+    height: 500px;
+}
+
+header {
+    background-image: url();
+    height: 50px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+
+header a {
+    color: black;
+    text-decoration: none;
+}
+
+hr {
+    border-color: red;
+
+}
+.header {
+letter-spacing: 1px;
+word-spacing: 15px;
+}
